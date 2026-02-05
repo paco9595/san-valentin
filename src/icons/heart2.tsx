@@ -1,5 +1,3 @@
-import React from 'react';
-
 const HeartIcon = ({
     size = 32,
     color = '#000000',

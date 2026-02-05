@@ -1,5 +1,3 @@
-import React from 'react';
-
 const PartnerHeartOutlineRoundedIcon = ({
     size = 24,
     color = '#000000',
