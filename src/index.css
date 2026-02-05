@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+body {
+  height: 100vh;
+  background-image: url('./assets/images/bg.jpg');
+  background-repeat: repeat;
+}
+
+.dancing-script {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
